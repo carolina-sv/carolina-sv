@@ -1,26 +1,32 @@
+<h1 align="center">Analista Funcional Júnior | Analista de Requisitos | Analista de Negócios</h1>
 
-                                                Desenvolvedora Full Stack
-
-## Tecnologias e Ferramentas
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+<p align="center">
+  Atuação na análise de sistemas ERP, levantamento de regras de negócio, mapeamento de processos (BPMN), documentação funcional, escrita de histórias de usuário (User Stories), critérios de aceite e homologação (UAT).
 </p>
 
-## Banco de Dados & Infraestrutura
+## Competências Funcionais & Processos
 <p>
-<img src="https://img.shields.io/badge/SQL-003545?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Análise_de_Requisitos-1E3A8A?style=for-the-badge" alt="Análise de Requisitos"/>
+  <img src="https://img.shields.io/badge/Regras_de_Negócio-1E3A8A?style=for-the-badge" alt="Regras de Negócio"/>
+  <img src="https://img.shields.io/badge/Mapeamento_BPMN-0F766E?style=for-the-badge" alt="Mapeamento BPMN"/>
+  <img src="https://img.shields.io/badge/Histórias_de_Usuário-0F766E?style=for-the-badge" alt="Histórias de Usuário"/>
+  <img src="https://img.shields.io/badge/Critérios_de_Aceite-0F766E?style=for-the-badge" alt="Critérios de Aceite"/>
+  <img src="https://img.shields.io/badge/Homologação_(UAT)-334155?style=for-the-badge" alt="Homologação UAT"/>
+  <img src="https://img.shields.io/badge/Documentação_Funcional-334155?style=for-the-badge" alt="Documentação Funcional"/>
 </p>
 
-## Automação & Gerenciamento
+## Plataformas de Tickets & Gestão
 <p>
-<img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Freshdesk-25C16F?style=for-the-badge&logo=freshworks&logoColor=white" alt="Freshdesk"/>
+  <img src="https://img.shields.io/badge/ITSM-475569?style=for-the-badge" alt="ITSM"/>
+</p>
+
+## Banco de Dados (Apoio à Análise)
+<p>
+  <img src="https://img.shields.io/badge/SQL-003545?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
 
 ## Vamos nos conectar?
